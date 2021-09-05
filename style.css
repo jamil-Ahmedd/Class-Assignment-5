@@ -1,0 +1,106 @@
+table{
+    border-collapse: collapse;
+    width: 600px;
+}
+.baguni{
+    color: #68217a;
+    font-size: bold;
+    text-align: center;
+}
+
+.pick-color{
+    background: #ffff00;
+    font-size: bold;
+    text-align: center;
+}
+.yellow{
+    background: #f6b93b;
+    font-size: bold;
+    text-align: center;
+}
+.sir{
+    background: #ffcccc;
+    font-size: bold;
+    text-align: center;
+}
+.wed{
+    background: #ee82ee;
+    font-size: bold;
+    text-align: center;
+}
+.time-eight{
+    background: #ff6b81;
+    font-size: bold;
+    text-align: center;
+}
+.room-no{
+    background: #c4e538;
+    font-size: bold;
+    text-align: center;
+}
+.one-h-t{
+    background:#8e4abe;
+    font-size: bold;
+    text-align: center;
+}
+.time-ten{
+    background: #2ed573;
+    font-size: bold;
+    text-align: center;
+}
+.sun{
+    background:#ff3f34 ;
+    font-size: bold;
+    text-align: center;
+}
+.one-h-th{
+    background: #2222fd;
+    font-size: bold;
+    text-align: center;
+}
+.one-h-f{
+    background: #008000;
+    font-size: bold;
+    text-align: center;
+}
+.mon{
+    background: #0fbcf9;
+    font-size: bold;
+    text-align: center;
+}
+.one-h-s{
+    background: #ffa500;
+    font-size: bold;
+    text-align: center;
+}
+.tues{
+    background: #78e08f;
+    font-size: bold;
+    text-align: center;
+}
+.thur{
+    background: #d1d8e0;
+    font-size: bold;
+    text-align: center;
+}
+h4{
+    background: #d2d2d2;
+}
+.lorem{
+    color:#4112c4;
+    text-align: center;
+}
+.lorem2{
+color:#4112c4;
+text-align: center;
+}
+h3{
+    color:#fa9797;
+}
+.footer{
+    background:#45d76a ;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+
+}
